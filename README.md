@@ -5,7 +5,7 @@
 [![Project: SPSU](https://img.shields.io/badge/Project-SPSU-blue.svg)](https://spsu.ac.in)
 [![License: APACHE](https://img.shields.io/badge/License-APACHE-yellow.svg)](https://choosealicense.com/licenses/apache-2.0/)
 
-Mentorship portal  is a part of ERP system of Sir Padampat Singhania University, Udaipur.
+Endeavour portal  is a part of ERP system of Sir Padampat Singhania University, Udaipur.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
