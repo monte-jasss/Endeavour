@@ -2,7 +2,7 @@
 
 [![Build: PHP](https://img.shields.io/badge/Build-PHP-green.svg)](https://drive.google.com/file/d/1lNZASP9nnZK6nApIJaujqYaKrA4Npfil/view?usp=sharing)
 [![Version: v1.0.0](https://img.shields.io/badge/Version-v1.0.0-red.svg)](https://drive.google.com/file/d/1lNZASP9nnZK6nApIJaujqYaKrA4Npfil/view?usp=sharing)
-[![Project: SPSU](https://img.shields.io/badge/Project-SPSU-red.svg)](https://spsu.ac.in)
+[![Project: SPSU](https://img.shields.io/badge/Project-SPSU-blue.svg)](https://spsu.ac.in)
 [![License: APACHE](https://img.shields.io/badge/License-APACHE-yellow.svg)](https://choosealicense.com/licenses/apache-2.0/)
 
 Mentorship portal  is a part of ERP system of Sir Padampat Singhania University, Udaipur.
